@@ -1,8 +1,10 @@
 🍽️ Customer and Restaurant Ratings SQL Project
-A complete SQL‑based analytical project exploring consumer behavior, restaurant cuisines, satisfaction levels, and rating trends using multiple SQL operations like JOINs, GROUP BY, HAVING, CTEs, Views, and Stored Procedures.
+A complete SQL‑based analytical project exploring consumer behavior, restaurant cuisines, 
+satisfaction levels, and rating trends using multiple SQL operations like JOINs, GROUP BY, HAVING, CTEs, Views, and Stored Procedures.
 
 📌 Project Overview
-This project analyzes consumer ratings across restaurants, identifies patterns based on demographics, determines cuisine preferences, and extracts actionable insights using SQL queries.
+This project analyzes consumer ratings across restaurants, identifies patterns based on demographics,
+determines cuisine preferences, and extracts actionable insights using SQL queries.
 The analysis is done on a relational database consisting of:
 
 consumers — consumer demographics
